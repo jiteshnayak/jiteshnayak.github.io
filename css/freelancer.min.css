@@ -5,12 +5,13 @@
  */body{font-family: 'Josefin Sans', sans-serif;overflow-x:hidden}
 
 .jiteshsvg {
-    width: 100px;
-    height: 100px;
-    background: red;
-    -moz-border-radius: 50px;
-    -webkit-border-radius: 50px;
-    border-radius: 50px;
+    width: 250px;
+    height: 200px;
+    background: white;
+    -moz-border-radius: 150px;
+    -webkit-border-radius: 150px;
+    border-radius: 150px;
+    margin: auto;
 }
 
 .beardmove{
